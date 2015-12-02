@@ -1,6 +1,6 @@
 name: Meela Leino
 favicon: null
-layout_spectrum: 0.08521302975714207
+layout_spectrum: 0.97962
 typography_spectrum: 0.037541241850703955
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9304422864224762
-  lightness: 0.8525086217559874
-  saturation: 0.14806238422170281
-  rhythmicContrast: 0.6655479604378343
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
